@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45" started-at="2020-07-13T23:03:50 IST" finished-at="2020-07-13T23:03:50 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45" started-at="2020-07-13T23:03:50 IST" finished-at="2020-07-13T23:03:50 IST">
+      <class name="Selenium.maven.Selenium.maven.test.testcl1">
+        <test-method status="PASS" signature="bc()[pri:0, instance:Selenium.maven.Selenium.maven.test.testcl1@4f7d0008]" name="bc" is-config="true" duration-ms="4" started-at="2020-07-13T23:03:50 IST" finished-at="2020-07-13T23:03:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method status="PASS" signature="t()[pri:0, instance:Selenium.maven.Selenium.maven.test.testcl1@4f7d0008]" name="t" duration-ms="1" started-at="2020-07-13T23:03:50 IST" finished-at="2020-07-13T23:03:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t -->
+        <test-method status="PASS" signature="ac()[pri:0, instance:Selenium.maven.Selenium.maven.test.testcl1@4f7d0008]" name="ac" is-config="true" duration-ms="0" started-at="2020-07-13T23:03:50 IST" finished-at="2020-07-13T23:03:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- Selenium.maven.Selenium.maven.test.testcl1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
